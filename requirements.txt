@@ -72,8 +72,7 @@ Pygments==2.18.0
 pylas==0.4.3
 pyparsing==3.2.3
 python-dateutil==2.9.0.post0
-pytz==2024.2
-pywin32==306
+pytz==2023.3
 rasterio==1.4.3
 referencing==0.35.1
 requests==2.32.3
